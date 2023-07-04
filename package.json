@@ -10,6 +10,7 @@
   "author": "Wojciech Kowalik <kontakt@wojciech-kowalik.pl> (http://wojciech-kowalik.pl/)",
   "license": "MIT",
   "dependencies": {
+    "@netlify/functions": "1.6.0",
     "@types/node": "20.3.3",
     "gpt-3-encoder": "1.1.4",
     "typescript": "5.1.6"
