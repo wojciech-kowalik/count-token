@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "tsc --noEmit"
+    "build": "npm install && tsc --noEmit"
   },
   "author": "Wojciech Kowalik <kontakt@wojciech-kowalik.pl> (http://wojciech-kowalik.pl/)",
   "license": "MIT",
