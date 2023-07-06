@@ -1,1 +1,1 @@
-# count-token funciton
+# count-token function
