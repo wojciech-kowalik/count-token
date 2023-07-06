@@ -1,5 +1,3 @@
-const { encode } = require("gpt-3-encoder");
-
 // exports.handler = async (event, context) => {
 //   if (event.httpMethod === "POST") {
 //     try {
