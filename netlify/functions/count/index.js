@@ -47,5 +47,5 @@ router.post("/", (request, response) => {
 app.use(bodyParser.json());
 app.use("/.netlify/functions/count", router);
 
-exports = app;
-exports.handler = serverless(app);
+module.exports = app;
+module.exports.handler = serverless(app);
